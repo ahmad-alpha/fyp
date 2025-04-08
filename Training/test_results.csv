@@ -1,3 +1,0 @@
-Epoch,Batch Size,Learning Rate,Optimizer,Test Loss,Test Acc,Test Precision,Test Recall,Test F1 Score,Test ROC AUC,Test RMSE
-1,8,0.001,AdamW,1.1394,0.3343,0.2284,0.3343,0.2689,0.5226,1.1165
-2,8,0.001,AdamW,1.2802,0.3616,0.1307,0.3616,0.192,0.5248,0.799
