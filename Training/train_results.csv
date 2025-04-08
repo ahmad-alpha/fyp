@@ -1,3 +1,0 @@
-Epoch,Batch Size,Learning Rate,Optimizer,Train Loss,Train Acc,Train Precision,Train Recall,Train F1 Score,Train ROC AUC,Train RMSE
-1,8,0.001,AdamW,1.2284,0.3502,0.341,0.3502,0.3427,0.4958,1.0639
-2,8,0.001,AdamW,1.1642,0.3297,0.3143,0.3297,0.316,0.4883,1.0623
