@@ -1,0 +1,1 @@
+Training with new model with 50 epochs using clipping, pretrained model and resNet weights
