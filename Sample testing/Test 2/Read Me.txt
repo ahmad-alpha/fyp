@@ -1,0 +1,1 @@
+500 epoch on pretrained model, resNet weights, without clipping,
