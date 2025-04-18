@@ -1,0 +1,1 @@
+200 clean skin images to check performance of pretrained model with 128x128 image input

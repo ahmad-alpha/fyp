@@ -1,0 +1,3 @@
+shuffle true
+step 1
+dataset stage 3 128x128 patches
